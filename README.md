@@ -13,6 +13,7 @@ It's Conway's Game of Life implemented in C. It's boundless for two reasons:
 Usage
 -----
 make
+
 ./conway -f stateFile
 
 See the files in ./statefiles for samples. Living cells are designated with an 'x' character and dead cells with a '.' character.
